@@ -1,6 +1,5 @@
-lion green
+lion
 tiger
 leopard
 turtle
 dog
-
